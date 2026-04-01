@@ -15,7 +15,7 @@ include "db.php";
 
 /* ---------------- API KEY ---------------- */
 
-$apiKey = "AIzaSyAULJeGRddVJ8v6_01XU2MjNUnufv-CPTo";
+$apiKey = "YOUR_API_KEY";
 
 /* ---------------- INPUT ---------------- */
 
